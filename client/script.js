@@ -24,3 +24,5 @@ fetch(url)
     });
     document.body.appendChild(userList);
   });
+
+  console.log(user);
